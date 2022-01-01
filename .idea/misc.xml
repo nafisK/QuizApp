@@ -6,6 +6,8 @@
         <entry key="..\:/Users/nafis/AndroidStudioProjects/QuizApp/app/src/main/res/drawable-v24/default_option_border_bg.xml" value="0.587037037037037" />
         <entry key="..\:/Users/nafis/AndroidStudioProjects/QuizApp/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.5935185185185186" />
         <entry key="..\:/Users/nafis/AndroidStudioProjects/QuizApp/app/src/main/res/drawable-v24/selected_option_border_bg.xml" value="0.5935185185185186" />
+        <entry key="..\:/Users/nafis/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/correct_option_border_bg.xml" value="0.6119791666666666" />
+        <entry key="..\:/Users/nafis/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/wrong_option_border_bg.xml" value="0.6119791666666666" />
         <entry key="..\:/Users/nafis/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="..\:/Users/nafis/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_quiz_questions.xml" value="0.5" />
       </map>
